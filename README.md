@@ -16,7 +16,7 @@ Se realizaron los siguientes pasos:
 
 
 
-En el siguiente link puede acceder: 
+## Shiny App: 
 
 https://anavarrete.shinyapps.io/refugios_cercanos/
 
